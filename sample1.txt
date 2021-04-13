@@ -11,3 +11,9 @@ She had done all except this one thing called git pull
 
 
 another line
+
+some other text inserted ...2
+
+anmother line again
+
+some other text inserted ....3
